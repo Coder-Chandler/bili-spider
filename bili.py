@@ -1,5 +1,7 @@
+# -*- coding: utf-8 -*-
+
 import threading
-from functools import namedtuple
+from collections import namedtuple
 from concurrent import futures
 import time
 import csv
